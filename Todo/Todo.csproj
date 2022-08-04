@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Models\ViewModel\" />
+    <None Remove="Microsoft.Data.Sqlite" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\ViewModel\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="6.0.7" />
+  </ItemGroup>
+</Project>

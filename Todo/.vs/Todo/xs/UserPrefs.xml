@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{8E1CC4F9-D367-424A-9C87-A0D82D1A6039}|Default">
+  <MonoDevelop.Ide.ItemProperties.Todo PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_MainPage.cshtml">
+    <Files>
+      <File FileName="Views/Shared/_Layout.cshtml" Line="6" Column="36" />
+      <File FileName="Views/Shared/_MainPage.cshtml" Line="1" Column="11" />
+      <File FileName="Controllers/HomeController.cs" Line="116" Column="41" />
+      <File FileName="Models/ViewModel/TodoViewModel.cs" Line="9" Column="13" />
+      <File FileName="Models/TodoItems.cs" Line="3" Column="14" />
+      <File FileName="Views/_ViewImports.cshtml" Line="8" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Shared/_ValidationScriptsPartial.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Todo" expanded="True">
+            <Node name="Todo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ViewModel" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
